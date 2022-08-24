@@ -1,5 +1,5 @@
 version: 0.1.5
-project: crop_classification
+project: crop-classification
 description: OpenMapFlow crop classification
 gcloud:
     project_id: rcmrd-workshop-test
